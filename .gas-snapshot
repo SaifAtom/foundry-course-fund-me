@@ -1,0 +1,8 @@
+FundMeTest:testFundFailsWithoutEnoughEth() (gas: 23044)
+FundMeTest:testFundUpdatesFundersArrayAndMapping() (gas: 101583)
+FundMeTest:testGetVersion() (gas: 18335)
+FundMeTest:testMinDollarIsFive() (gas: 8300)
+FundMeTest:testOwnerIsDeployer() (gas: 8499)
+FundMeTest:testWidhdrawFailsIfNotOwner() (gas: 10872)
+FundMeTest:testWidhrawAmountWithMultipleFunders() (gas: 441780)
+FundMeTest:testWidhrawAmountWithSingleFunder() (gas: 85092)
